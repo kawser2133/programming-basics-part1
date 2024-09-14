@@ -1,4 +1,4 @@
-## **1. Classes and Objects in C#**
+## **Classes and Objects in C#**
 
 A **class** in C# is a blueprint or template for creating objects. It defines the structure of an object, including its properties (data), methods (behavior), and constructors (initialization logic). You can think of a class as a definition, while an object is an instance of that class, representing a specific entity.
 
