@@ -1,4 +1,22 @@
-## <ins>1. Classes and Objects<ins/>
+# **Programming Basics Part 1**
+
+Welcome to **Programming Basics Part 1**, a repository focused on building foundational knowledge of C# programming concepts. 
+
+### Sections Covered:
+
+1. [**Classes and Objects**](#1-classes-and-objects)
+   - [Introduction to Classes](#11-introduction-to-classes)
+   - [Fields, Properties, Methods](#12-fields-properties-and-methods)
+   - [Constructors](#13-constructors)
+   - [Types of Classes](#14-types-of-classes) (Static, Partial, Sealed, Abstract, Nested)
+
+2. [**Access Modifiers**](#2-access-modifiers)
+   - [Public, Private, Protected, Internal, Protected Internal](#summary-of-access-modifiers)
+
+This repository aims to serve as a solid starting point for those interested in C# programming, providing practical examples and use cases for every concept discussed.
+
+
+## 1. Classes and Objects
 
 ### 1.1. Introduction to Classes
 
@@ -335,7 +353,7 @@ nested.ShowMessage();  // Output: This is a nested class.
 ```
 ---
 
-## <ins>2. Access Modifiers<ins/>
+## 2. Access Modifiers
 
 Access modifiers in C# control the visibility and accessibility of classes, methods, properties, and other members in a program. Here's a detailed explanation of the most common access modifiers:
 
