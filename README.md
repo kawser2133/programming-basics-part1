@@ -18,7 +18,7 @@ This repository aims to serve as a solid starting point for those interested in 
 
 ## 1. Classes and Objects
 
-### 1.1. Introduction to Classes
+### 1.1 Introduction to Classes
 
 A **class** in C# is a blueprint or template for creating objects. It defines the structure of an object, including its properties (data), methods (behavior), and constructors (initialization logic). You can think of a class as a definition, while an object is an instance of that class, representing a specific entity.
 
@@ -56,7 +56,7 @@ car1.Drive();  // Output: Toyota Corolla is driving!
 
 ---
 
-### **1.2. Fields, Properties, and Methods**
+### **1.2 Fields, Properties, and Methods**
 
 ### **Fields**
 
@@ -132,7 +132,7 @@ Console.WriteLine(result);  // Output: 15
 
 ---
 
-### **1.3. Constructors**
+### **1.3 Constructors**
 
 A **constructor** is a special method that is automatically called when an object is created. It initializes the object’s state by assigning initial values to fields or properties.
 
@@ -218,7 +218,7 @@ Console.WriteLine(area);  // Output: 78.53975
 
 ---
 
-### **1.4. Types of Classes**
+### **1.4 Types of Classes**
 
 C# provides several types of classes, each with its specific use cases:
 
