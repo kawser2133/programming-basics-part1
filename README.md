@@ -1,6 +1,6 @@
 # **Programming Basics Part 1**
 
-Welcome to **Programming Basics Part 1**, the repository focused on building foundational knowledge of C# programming concepts. 
+Welcome to **Programming Basics Part 1**, a repository focused on building foundational knowledge of C# programming concepts. 
 
 ### Sections Covered:
 
